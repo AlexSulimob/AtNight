@@ -1,0 +1,23 @@
+{
+    "name": "StartupDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4026e61f9457b7b45a478646532d4b9d",
+        "GUID:e351d46227949a1e1a7fbdfdc83a3bec",
+        "GUID:dbf9471e04e531e3294f4e83f3790136",
+        "GUID:a430c38443f084852ac90f155ea93a18",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:a22362b82293644e1bbe51356c008d63",
+        "GUID:f5f01a091e0d746659b4380253d52f4e",
+        "GUID:32d51ffd9c5ffcc4e936c59172dc62ec"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

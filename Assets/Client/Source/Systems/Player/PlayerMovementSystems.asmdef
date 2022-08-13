@@ -1,0 +1,23 @@
+{
+    "name": "PlayerMovementSystems",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b8c0ce0ef91df96eb8054a2d69d99300",
+        "GUID:0906e4a9ac92b39f3b168c2400210f1b",
+        "GUID:4026e61f9457b7b45a478646532d4b9d",
+        "GUID:32d51ffd9c5ffcc4e936c59172dc62ec",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:a22362b82293644e1bbe51356c008d63",
+        "GUID:f5f01a091e0d746659b4380253d52f4e",
+        "GUID:b975d5e820c81704fb23e0472ca275af"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

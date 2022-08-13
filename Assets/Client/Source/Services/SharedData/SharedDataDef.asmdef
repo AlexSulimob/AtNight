@@ -1,0 +1,18 @@
+{
+    "name": "SharedDataDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0906e4a9ac92b39f3b168c2400210f1b",
+        "GUID:b975d5e820c81704fb23e0472ca275af",
+        "GUID:b6dc6b6da0cb293429b5af2080b0a3ca"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

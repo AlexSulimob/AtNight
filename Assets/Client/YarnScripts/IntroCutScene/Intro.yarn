@@ -1,0 +1,25 @@
+﻿title: Intro
+tags:
+---
+<<setPosPlayer PlayerCut point1>>
+<<offPlayer PlayerCut>>
+<<wait 1>>
+<<play_sound_on RainAmbient 0.3 3 true>>
+<<fade_out_camera 1>>
+<<set_anim PlayerCut walk>>
+<<walk PlayerCut point1 3>>
+<<wait 3>>
+<<set_anim PlayerCut idle>>
+PlayerCut: Another level with rain. #line:0e2bd2a 
+PlayerCut: The end is near. #line:0c9ae8f 
+// <<load_scene GameplayScene>>
+// <<on_go Player>>
+// <<on_go Levels>>
+// <<on_go gpCM>>
+<<onPlayer PlayerCut>>
+<<off_go PlayerCut>>
+<<wait 2.5>>
+<<unload_scene IntroCutscene>>
+// <<unload_scene IntroCutscene>>
+// <<fade_in_camera 1>>
+===

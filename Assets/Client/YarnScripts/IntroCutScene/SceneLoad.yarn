@@ -1,0 +1,6 @@
+﻿title: SceneLoad
+tags:
+---
+<<play_sound_on RainAmbient 0.3 3 true>>
+<<fade_out_camera 1>>
+===

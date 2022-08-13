@@ -1,0 +1,19 @@
+﻿title: SecondMeet
+tags:
+---
+// <<on_go PlayerCut>>
+<<setPosPlayerCut PlayerCut PlayerCut>>
+<<offPlayer PlayerCut>>
+Stranger: Freeze, who are you? What are you want from us? #line:0317ba0 
+PlayerCut: Easy, I want to help!  #line:02fff02 
+Stranger: How you can help us? #line:08a8fa4 
+PlayerCut: I have light, strong energy source and I can share it with you. #line:0c5efaf 
+Stranger: Yeah, but you also can burn our brains, and make new modification for you. #line:097f0f8 
+PlayerCut: If I wanted to, I would have already done it. #line:0563358 
+Stranger: ... #line:0cc9a84 
+
+<<onPlayer PlayerCut>>
+<<off_go PlayerCut>>
+
+<<fade_in_camera 1>>
+===

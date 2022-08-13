@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Client/Scenes/Startup.unity
+    guid: ac20d093cedfb2e4fad21d7118ae5f8c
+  - enabled: 1
+    path: Assets/Client/Scenes/mainMenu.unity
+    guid: dc63f956c5dd083799ff16d396a15b17
+  - enabled: 1
+    path: Assets/Client/Scenes/PauseScene.unity
+    guid: b0f8fac852d9dc3e48ade18d93119a95
+  - enabled: 1
+    path: Assets/Client/Scenes/GameplayScene.unity
+    guid: a72f1d85fcf1d58128d406b1fcee01d8
+  - enabled: 1
+    path: Assets/Client/Scenes/Cutscenes/IntroCutscene.unity
+    guid: 8bf7c50f6c2becf4aaabaf1e5a689015
+  - enabled: 1
+    path: Assets/Client/Scenes/l1p1.unity
+    guid: bf94bdef34e4ee565874b0dc2bee2e46
+  - enabled: 1
+    path: Assets/Client/Scenes/l1p2.unity
+    guid: a6ebe8158d2741ef3a4c4f26b1c8035f
+  - enabled: 1
+    path: Assets/Client/Scenes/l1p3.unity
+    guid: ba0120bd6f7626c45b862d112250f780
+  - enabled: 1
+    path: Assets/Client/Scenes/Camera.unity
+    guid: 9149acbe4bd69ad489f5718ba1c78676
+  - enabled: 1
+    path: Assets/Client/Scenes/RainAndThunder.unity
+    guid: 70ab2d6cf76ce6a4ebd43c80d4920240
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Client/Scenes/DialogTestScene.unity
+    guid: 544ac7dcae3fd6515a2aea0f9f5b4039
+  m_configObjects: {}

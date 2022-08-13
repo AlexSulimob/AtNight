@@ -1,0 +1,21 @@
+{
+    "name": "YarnCommands",
+    "rootNamespace": "",
+    "references": [
+        "GUID:34aa492b82754644eac2f903cd496268",
+        "GUID:8d4001f1417d86cd3af1aeab92cda589",
+        "GUID:b6dc6b6da0cb293429b5af2080b0a3ca",
+        "GUID:0d8beb7f090555447a6cf5ce9e54dbb4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "DOTween.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

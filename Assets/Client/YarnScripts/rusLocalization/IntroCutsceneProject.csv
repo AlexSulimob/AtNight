@@ -1,0 +1,10 @@
+language,id,text,file,node,lineNumber,lock,comment
+en,line:0e2bd2a,PlayerCut: Еще один уровень с дождем.,Assets/Client/YarnScripts/IntroCutScene/Intro.yarn,Intro,13,3e8dbd3c,
+en,line:0c9ae8f,PlayerCut: Конец близок.,Assets/Client/YarnScripts/IntroCutScene/Intro.yarn,Intro,14,2ff7989c,
+en,line:0317ba0,"Stranger: Стоять! Кто ты? Чего ты хочешь?",Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,7,5cd9e43f,
+en,line:02fff02,"PlayerCut: Полегче, я хочу помочь.",Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,8,04d24086,
+en,line:08a8fa4,Stranger: Как ты можешь помочь нам?,Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,9,87c8928e,
+en,line:0c5efaf,"PlayerCut: У меня есть свет, с помощью него мы можем выбраться отсюда.",Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,10,061ea8f2,
+en,line:097f0f8,"Stranger: Дааа или расплавить им наши мозги.",Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,11,34fed9c0,
+en,line:0563358,"PlayerCut: Если бы я хотел, то уже бы сделал",Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,12,d6708b5f,
+en,line:0cc9a84,Stranger: ...,Assets/Client/YarnScripts/IntroCutScene/SecondMeet.yarn,SecondMeet,13,5f51b8ca,

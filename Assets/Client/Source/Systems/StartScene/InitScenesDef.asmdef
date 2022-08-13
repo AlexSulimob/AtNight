@@ -1,0 +1,21 @@
+{
+    "name": "InitScenesDef",
+    "rootNamespace": "",
+    "references": [
+        "GUID:4026e61f9457b7b45a478646532d4b9d",
+        "GUID:e59bf9fc7d5a44b18a819a92edd46163",
+        "GUID:f5f01a091e0d746659b4380253d52f4e",
+        "GUID:b8c0ce0ef91df96eb8054a2d69d99300",
+        "GUID:3598dd59bf4c1ff7ba9ae31281d29792",
+        "GUID:b6dc6b6da0cb293429b5af2080b0a3ca"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
